@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercicio-01/Exercicio-01.iml" filepath="$PROJECT_DIR$/Exercicio-01/Exercicio-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio-01-Construtores-Encapsulamento-Sobrecarga/Exercicio-01-Construtores-Encapsulamento-Sobrecarga.iml" filepath="$PROJECT_DIR$/Exercicio-01-Construtores-Encapsulamento-Sobrecarga/Exercicio-01-Construtores-Encapsulamento-Sobrecarga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticando-Java-com-Orientacoes-a-objetos.iml" filepath="$PROJECT_DIR$/Praticando-Java-com-Orientacoes-a-objetos.iml" />
+    </modules>
+  </component>
+</project>
